@@ -1,0 +1,11 @@
+2024-12-16T01:35:04.812Z - Ruta: /joyas - Método: GET
+2024-12-16T02:08:40.491Z - Ruta: /joyas?limits=2 - Método: GET
+2024-12-16T02:09:07.932Z - Ruta: /joyas?limits=2&page=2 - Método: GET
+2024-12-16T02:09:25.265Z - Ruta: /joyas?limits=3&page=1&order_by=stock_ASC - Método: GET
+2024-12-16T02:10:03.707Z - Ruta: /joyas?limits=3&page=1&order_by=precio_DESC - Método: GET
+2024-12-16T02:21:12.852Z - Ruta: /joyas/filtros?precio_max=20000 - Método: GET
+2024-12-16T02:21:37.272Z - Ruta: /joyas/filtros?precio_min=20000 - Método: GET
+2024-12-16T02:21:57.919Z - Ruta: /joyas/filtros?precio_min=20000&precio_max=30000 - Método: GET
+2024-12-16T02:23:11.178Z - Ruta: /joyas/filtros?categoria=aros - Método: GET
+2024-12-16T02:23:32.679Z - Ruta: /joyas/filtros?metal=oro - Método: GET
+2024-12-16T02:24:28.238Z - Ruta: /joyas/filtros?precio_min=20000&precio_max=40000&categoria=aros&metal=oro - Método: GET
